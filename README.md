@@ -53,9 +53,3 @@ Before running this application, ensure you have:
 - MongoDB (v6 or higher) installed and running
 - npm or yarn package manager
 - Git (for version control)
-│ ├── .env.example
-│ ├── .gitignore
-│ ├── package.json
-│ └── tailwind.config.js
-│
-└── README.md
